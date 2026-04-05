@@ -1,6 +1,6 @@
 {
     "name": "emby.giacom-tskin",
-    "displayName": "Default Skin",
+    "displayName": "giacom Skin",
     "version": "1.0.0",
     "description": "The default Emby skin.",
     "plugin": "plugin.js",
